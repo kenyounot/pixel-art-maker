@@ -8,6 +8,10 @@ h1 {
     margin: 0.2em;
 }
 
+.blast {
+  color: rgb(55, 89, 145);
+}
+
 h2 {
     margin: 1em 0 0.25em;
 }
